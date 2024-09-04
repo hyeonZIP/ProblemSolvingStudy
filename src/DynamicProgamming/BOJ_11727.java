@@ -13,8 +13,22 @@ public class BOJ_11727 {
 
         int[] dp = new int[1001];
 
-        //
         dp[0] = 1;
         dp[1] = 3;
+
+        if (n<3)
+        {
+            System.out.println(dp[n-1]);
+        }
+        else
+        {
+            for (int i=2; i<n; i++)
+            {
+                dp[i] = (dp[i-2]*2 + dp[i-1])%10007;
+            }
+            System.out.println(dp[n-1]);
+        }
+
+
     }
 }
