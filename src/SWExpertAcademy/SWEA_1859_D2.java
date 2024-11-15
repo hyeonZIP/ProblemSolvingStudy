@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class SWEA_1859 {
+public class SWEA_1859_D2 {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);

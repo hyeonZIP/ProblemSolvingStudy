@@ -7,7 +7,7 @@ import java.util.Scanner;
  * DFS 와 BackTracking(원상복구) 활용
  */
 
-public class SWEA_1244 {
+public class SWEA_1244_D3 {
     static int arr[];
     static int N;
     static int max;

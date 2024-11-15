@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 탐색 시간을 단축시키려면 다음 층이 존재하지 않을 경우 다음 건물로 넘어가게 한다
  */
 
-public class SWEA_1206 {
+public class SWEA_1206_D3 {
     final static int MAX = 255;
     final static int TEST_CASE = 10;
     static int result = 0;

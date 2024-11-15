@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class SWEA_21425 {
+public class SWEA_21425_D2 {
     public static void main(String[] args) throws IOException {
         /**
          * SWEA_21425 : += [D2]
