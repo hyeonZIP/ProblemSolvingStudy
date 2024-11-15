@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 public class SWEA_21425 {
     public static void main(String[] args) throws IOException {
         /**
-         * SWEA_21425 : +=
+         * SWEA_21425 : += [D2]
          * 항상 작은 값에 더해주기
          */
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
