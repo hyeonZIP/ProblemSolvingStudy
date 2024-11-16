@@ -1,0 +1,7 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛôÑ¦8³‘–‡›2J$886d903e-f32f-415d-a6d8-2772af3e017a
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ÛØâ8´‘–‡›2J$11a235f5-83d6-4fa4-b2ad-56be792f3798
+m	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8¾‘–‡›2J$e844188a-8433-43b5-be75-2004c67c465e
+r	java:S106"+Replace this use of System.out by a logger.(€õëºúÿÿÿÿ8£ô–‡›2J$3861576e-93df-4758-8b58-558075d1502f
+u
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8¿‘–‡›2J$02513d35-d3ea-4a53-9f30-32ed50465c12

@@ -1,0 +1,12 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÂôß8£¨­‘2J$91337b4d-b099-4b24-817b-90717d98da2d
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³ÔŸ8£¨­‘2J$4319f08f-2a29-4615-a27c-92bc5b7e5f11
+–
+java:S1104	"NMake dp a static final constant or non-public and provide accessors if needed.(•ú…úÿÿÿÿ8£¨­‘2J$2d8c33d9-e33a-4da7-8a4b-cabd6d9c3ed9
+p
+java:S1444	"(Make this "public static dp" field final(•ú…úÿÿÿÿ8Ÿ£¨­‘2J$76502cde-07b1-47a4-86f9-037a452c1596
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼”Ô§øÿÿÿÿ8Ÿ£¨­‘2J$767bec76-0494-498e-b117-aa4ed9d9416f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ÛØâ8¡£¨­‘2J$d4a3dd09-f0b5-4c49-8060-d011caf69dd9
+`
+java:S2386"Make member "dp" "protected".(ü»øß8ª£¨­‘2J$a76a5182-8f86-4fd9-a4c3-974bee14d206
+m	java:S106"+Replace this use of System.out by a logger.(‹ˆ´8ª£¨­‘2J$164923d3-a441-45bb-b410-3341d8fe8ce5
