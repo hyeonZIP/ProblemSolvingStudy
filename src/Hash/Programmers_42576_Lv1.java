@@ -16,7 +16,6 @@ public class Programmers_42576_Lv1 {
             try {
                 inputParticipant = stringToArray(br.readLine());
                 inputCompletion = stringToArray(br.readLine());
-                System.out.println(Arrays.toString(inputCompletion));
                 System.out.println(solution(inputParticipant, inputCompletion));
             } catch (IOException e) {
                 break;
