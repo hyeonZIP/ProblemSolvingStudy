@@ -37,7 +37,6 @@ public class Programmers_42577_Lv2 {
 
         for (String i : map.keySet()) {
             for (int j = 0; j<i.length(); j++){
-                System.out.println(i.substring(0,j));
                 if (map.containsKey(i.substring(0,j))) {
                     return false;
                 }

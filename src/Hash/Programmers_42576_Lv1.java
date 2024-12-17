@@ -3,12 +3,12 @@ package Hash;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.HashMap;
 
 public class Programmers_42576_Lv1 {
     static String[] inputParticipant;
     static String[] inputCompletion;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -35,11 +35,11 @@ public class Programmers_42576_Lv1 {
         HashMap<String, Integer> map = new HashMap<>();
 
         for (String p : participant) {
-            map.put(p, map.getOrDefault(p,0)+1);
+            map.put(p, map.getOrDefault(p, 0) + 1);
         }
 
         for (String c : completion) {
-            map.put(c, map.get(c)-1);
+            map.put(c, map.get(c) - 1);
         }
 
         for (String s : map.keySet()) {
