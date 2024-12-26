@@ -202,3 +202,5 @@ G
 ,src/StackAndQueue/Programmers_12909_Lv2.java,3\0\30f0c070d9e4569b1c23604d99e3238511147131
 \
 ,src/StackAndQueue/Programmers_42587_Lv2.java,2\0\209711d3c49392876867e198381f596c75f0daf5
+\
+,src/StackAndQueue/Programmers_42583_Lv2.java,8\1\811fef11cf68c6dad7114d29c29424f7f3a87b40
